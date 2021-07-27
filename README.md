@@ -1,7 +1,7 @@
 # Instagram Clone React App
 
+### <a href="https://instagram-clone-react-66914.web.app/" target="_blank">Live Demo</a>
 
-## <a href="https://instagram-clone-react-66914.web.app/" target="_blank">Live Demo</a>
 ## Available Scripts
 
 In the project directory, you can run:
